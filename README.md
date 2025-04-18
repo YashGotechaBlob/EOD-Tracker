@@ -76,4 +76,5 @@ npm run dev
 
 ## License
 
-MIT 
+MIT # Project Status
+Current Status: MVP Complete
